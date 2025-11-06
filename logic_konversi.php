@@ -22,7 +22,6 @@ function konversiSuhu($nilai, $dari, $ke) {
         case "K": $nilai = $nilai - 273.15; break;
     }
 
-    // Ubah dari Celsius ke target satuan
     switch ($ke) {
         case "F": return ($nilai * 9/5) + 32;
         case "K": return $nilai + 273.15;
