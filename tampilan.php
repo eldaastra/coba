@@ -1,6 +1,4 @@
-<!-- =========================
-Fajar - Fitur Tampilan
-========================= -->
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
